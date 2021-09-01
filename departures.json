@@ -1,0 +1,967 @@
+{
+    "results": [
+        {
+            "date": "7. Jul",
+            "flightNumber": "FI384",
+            "airline": "Icelandair",
+            "to": "Gothenburg",
+            "plannedDeparture": "00:30",
+            "realDeparture": "Departed 00:28",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "4U8213",
+            "airline": "Eurowings",
+            "to": "Berlin Tegel",
+            "plannedDeparture": "00:35",
+            "realDeparture": "Departed 00:54",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "OK461",
+            "airline": "Czech Airlines",
+            "to": "Prague",
+            "plannedDeparture": "00:40",
+            "realDeparture": "Departed 00:55",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "4U2797",
+            "airline": "Eurowings",
+            "to": "Stuttgart",
+            "plannedDeparture": "00:40",
+            "realDeparture": "Departed 00:47",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "LH2469",
+            "airline": "Deutsche Lufthansa",
+            "to": "Munich",
+            "plannedDeparture": "00:45",
+            "realDeparture": "Departed 01:42",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "AB3929",
+            "airline": "Air Berlin",
+            "to": "Dusseldorf",
+            "plannedDeparture": "00:45",
+            "realDeparture": "Departed 01:01",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "4U7809",
+            "airline": "Eurowings",
+            "to": "Hamburg",
+            "plannedDeparture": "00:50",
+            "realDeparture": "Departed 01:06",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "TO3853",
+            "airline": "Transavia",
+            "to": "Paris Orly",
+            "plannedDeparture": "01:00",
+            "realDeparture": "Departed 01:03",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "FI202",
+            "airline": "Icelandair",
+            "to": "Copenhagen",
+            "plannedDeparture": "01:00",
+            "realDeparture": "Departed 01:00",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "AB3547",
+            "airline": "Air Berlin",
+            "to": "Berlin Tegel",
+            "plannedDeparture": "00:40",
+            "realDeparture": "Departed 01:18",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "FI352",
+            "airline": "Icelandair",
+            "to": "Helsinki",
+            "plannedDeparture": "01:00",
+            "realDeparture": "Departed 01:03",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "FI540",
+            "airline": "Icelandair",
+            "to": "Paris CDG",
+            "plannedDeparture": "01:05",
+            "realDeparture": "Departed 01:08",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "FI316",
+            "airline": "Icelandair",
+            "to": "Oslo",
+            "plannedDeparture": "01:10",
+            "realDeparture": "Departed 01:11",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "FI304",
+            "airline": "Icelandair",
+            "to": "Stockholm Arlanda",
+            "plannedDeparture": "01:15",
+            "realDeparture": "Departed 01:17",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "I23661",
+            "airline": "Iberia Express",
+            "to": "Madrid",
+            "plannedDeparture": "01:25",
+            "realDeparture": "Departed 01:25",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "AB3907",
+            "airline": "Air Berlin",
+            "to": "Munich",
+            "plannedDeparture": "00:35",
+            "realDeparture": "Departed 01:52",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "4U881",
+            "airline": "Eurowings",
+            "to": "Cologne Bonn",
+            "plannedDeparture": "00:55",
+            "realDeparture": "Departed 02:40",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "BA422",
+            "airline": "British Airways",
+            "to": "Lyon",
+            "plannedDeparture": "05:45",
+            "realDeparture": "Departed 05:50",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "BA760",
+            "airline": "British Airways",
+            "to": "Frankfurt",
+            "plannedDeparture": "05:55",
+            "realDeparture": "Departed 06:02",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "BA720",
+            "airline": "British Airways",
+            "to": "Berlin Schoenefeld",
+            "plannedDeparture": "06:00",
+            "realDeparture": "Departed 05:58",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "BA442",
+            "airline": "British Airways",
+            "to": "Amsterdam",
+            "plannedDeparture": "06:00",
+            "realDeparture": "Departed 06:11",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "BA404",
+            "airline": "British Airways",
+            "to": "Paris CDG",
+            "plannedDeparture": "06:00",
+            "realDeparture": "Departed 06:00",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "BA810",
+            "airline": "British Airways",
+            "to": "London Gatwick",
+            "plannedDeparture": "06:10",
+            "realDeparture": "Departed 06:16",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "BA852",
+            "airline": "British Airways",
+            "to": "Dublin",
+            "plannedDeparture": "06:15",
+            "realDeparture": "Departed 06:15",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "BA830",
+            "airline": "British Airways",
+            "to": "Bristol",
+            "plannedDeparture": "06:15",
+            "realDeparture": "Departed 06:13",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "BA462",
+            "airline": "British Airways",
+            "to": "Brussels",
+            "plannedDeparture": "06:15",
+            "realDeparture": "Departed 06:07",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "6F141",
+            "airline": "Primera Air",
+            "to": "Almeria",
+            "plannedDeparture": "05:50",
+            "realDeparture": "Departed 07:03",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "BA942",
+            "airline": "British Airways",
+            "to": "Stockholm Arlanda",
+            "plannedDeparture": "06:30",
+            "realDeparture": "Departed 06:23",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "BA902",
+            "airline": "British Airways",
+            "to": "Copenhagen",
+            "plannedDeparture": "06:30",
+            "realDeparture": "Departed 06:21",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "BA858",
+            "airline": "British Airways",
+            "to": "Cork",
+            "plannedDeparture": "06:40",
+            "realDeparture": "Departed 06:48",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "BA860",
+            "airline": "British Airways",
+            "to": "Edinburgh",
+            "plannedDeparture": "06:50",
+            "realDeparture": "Departed 06:59",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "FI520",
+            "airline": "Icelandair",
+            "to": "Frankfurt",
+            "plannedDeparture": "07:25",
+            "realDeparture": "Departed 07:40",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "FI568",
+            "airline": "Icelandair",
+            "to": "Zurich",
+            "plannedDeparture": "07:20",
+            "realDeparture": "Departed 07:35",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "FI532",
+            "airline": "Icelandair",
+            "to": "Munich",
+            "plannedDeparture": "07:20",
+            "realDeparture": "Departed 07:35",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "FI342",
+            "airline": "Icelandair",
+            "to": "Helsinki",
+            "plannedDeparture": "07:30",
+            "realDeparture": "Departed 07:38",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "FI542",
+            "airline": "Icelandair",
+            "to": "Paris CDG",
+            "plannedDeparture": "07:40",
+            "realDeparture": "Departed 07:49",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "NY5502",
+            "airline": "Air Iceland",
+            "to": "Aberdeen",
+            "plannedDeparture": "07:45",
+            "realDeparture": "Departed 08:00",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "FI204",
+            "airline": "Icelandair",
+            "to": "Copenhagen",
+            "plannedDeparture": "07:45",
+            "realDeparture": "Departed 07:45",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "FI548",
+            "airline": "Icelandair",
+            "to": "Paris Orly",
+            "plannedDeparture": "07:40",
+            "realDeparture": "Departed 07:52",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "FI554",
+            "airline": "Icelandair",
+            "to": "Brussels",
+            "plannedDeparture": "07:40",
+            "realDeparture": "Departed 07:53",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "FI440",
+            "airline": "Icelandair",
+            "to": "Manchester",
+            "plannedDeparture": "08:00",
+            "realDeparture": "Departed 08:03",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "FI338",
+            "airline": "Icelandair",
+            "to": "Stavanger Sola",
+            "plannedDeparture": "08:00",
+            "realDeparture": "",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "FI272",
+            "airline": "Icelandair",
+            "to": "Billund",
+            "plannedDeparture": "08:00",
+            "realDeparture": "Departed 08:00",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "FI510",
+            "airline": "Icelandair",
+            "to": "Hamburg",
+            "plannedDeparture": "07:50",
+            "realDeparture": "Departed 08:01",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "FI470",
+            "airline": "Icelandair",
+            "to": "London Gatwick",
+            "plannedDeparture": "07:45",
+            "realDeparture": "Departed 08:00",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "FI500",
+            "airline": "Icelandair",
+            "to": "Amsterdam",
+            "plannedDeparture": "07:40",
+            "realDeparture": "Departed 08:05",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "FI306",
+            "airline": "Icelandair",
+            "to": "Stockholm Arlanda",
+            "plannedDeparture": "07:35",
+            "realDeparture": "Departed 08:05",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "FI338",
+            "airline": "Icelandair",
+            "to": "Bergen",
+            "plannedDeparture": "08:00",
+            "realDeparture": "Departed 08:11",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "DL261",
+            "airline": "Delta Air Lines",
+            "to": "Minneapolis St Paul",
+            "plannedDeparture": "08:30",
+            "realDeparture": "Departed 08:30",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "FI206",
+            "airline": "Icelandair",
+            "to": "Copenhagen",
+            "plannedDeparture": "08:30",
+            "realDeparture": "Departed 08:33",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "EZY2296",
+            "airline": "easyJet",
+            "to": "London Luton",
+            "plannedDeparture": "09:15",
+            "realDeparture": "Departed 09:30",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "EZY8508",
+            "airline": "easyJet",
+            "to": "London Gatwick",
+            "plannedDeparture": "09:25",
+            "realDeparture": "Departed 09:48",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "AY602",
+            "airline": "Finnair O.Y",
+            "to": "Helsinki",
+            "plannedDeparture": "09:30",
+            "realDeparture": "Departed 09:35",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "AC1971",
+            "airline": "Air Canada",
+            "to": "Toronto",
+            "plannedDeparture": "10:00",
+            "realDeparture": "Departed 10:00",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "FI450",
+            "airline": "Icelandair",
+            "to": "London Heathrow",
+            "plannedDeparture": "07:40",
+            "realDeparture": "Departed 10:00",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "FI430",
+            "airline": "Icelandair",
+            "to": "Glasgow",
+            "plannedDeparture": "07:35",
+            "realDeparture": "Departed 10:25",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "SK596",
+            "airline": "SAS",
+            "to": "Copenhagen",
+            "plannedDeparture": "10:30",
+            "realDeparture": "Departed 10:30",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "FI647",
+            "airline": "Icelandair",
+            "to": "Washington Dulles",
+            "plannedDeparture": "10:30",
+            "realDeparture": "Departed 10:43",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "FI613",
+            "airline": "Icelandair",
+            "to": "New York JFK",
+            "plannedDeparture": "10:30",
+            "realDeparture": "Departed 10:33",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "BA801",
+            "airline": "British Airways",
+            "to": "London Heathrow",
+            "plannedDeparture": "10:40",
+            "realDeparture": "Departed 10:54",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "FI318",
+            "airline": "Icelandair",
+            "to": "Oslo",
+            "plannedDeparture": "07:50",
+            "realDeparture": "Departed 10:41",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "FI635",
+            "airline": "Icelandair",
+            "to": "Boston",
+            "plannedDeparture": "10:30",
+            "realDeparture": "Departed 10:44",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "FI601",
+            "airline": "Icelandair",
+            "to": "Toronto",
+            "plannedDeparture": "10:30",
+            "realDeparture": "Departed 10:42",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "DL246",
+            "airline": "Delta Air Lines",
+            "to": "New York JFK",
+            "plannedDeparture": "10:55",
+            "realDeparture": "Departed 10:47",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "SK4788",
+            "airline": "SAS",
+            "to": "Oslo",
+            "plannedDeparture": "11:15",
+            "realDeparture": "Departed 11:15",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "DY1173",
+            "airline": "Norwegian Air",
+            "to": "Bergen",
+            "plannedDeparture": "12:35",
+            "realDeparture": "Departed 12:42",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "FI212",
+            "airline": "Icelandair",
+            "to": "Copenhagen",
+            "plannedDeparture": "13:00",
+            "realDeparture": "Departed 13:20",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "BA508",
+            "airline": "British Airways",
+            "to": "Warsaw",
+            "plannedDeparture": "14:55",
+            "realDeparture": "Departed 14:55",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "BA117",
+            "airline": "British Airways",
+            "to": "Baltimore Washington",
+            "plannedDeparture": "15:05",
+            "realDeparture": "Departed 15:12",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "BA446",
+            "airline": "British Airways",
+            "to": "Amsterdam",
+            "plannedDeparture": "15:10",
+            "realDeparture": "Departed 15:18",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "BA147",
+            "airline": "British Airways",
+            "to": "Pittsburgh",
+            "plannedDeparture": "15:10",
+            "realDeparture": "Departed 15:21",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "BA103",
+            "airline": "British Airways",
+            "to": "New York Newark",
+            "plannedDeparture": "15:10",
+            "realDeparture": "Departed 15:20",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "BA213",
+            "airline": "British Airways",
+            "to": "Toronto",
+            "plannedDeparture": "15:20",
+            "realDeparture": "Departed 15:20",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "BA125",
+            "airline": "British Airways",
+            "to": "Boston",
+            "plannedDeparture": "15:30",
+            "realDeparture": "Departed 15:36",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "BA408",
+            "airline": "British Airways",
+            "to": "Paris CDG",
+            "plannedDeparture": "15:45",
+            "realDeparture": "Departed 15:44",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "BA814",
+            "airline": "British Airways",
+            "to": "London Gatwick",
+            "plannedDeparture": "15:30",
+            "realDeparture": "Departed 16:08",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "FI504",
+            "airline": "Icelandair",
+            "to": "Amsterdam",
+            "plannedDeparture": "16:15",
+            "realDeparture": "Departed 16:11",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "FI524",
+            "airline": "Icelandair",
+            "to": "Frankfurt",
+            "plannedDeparture": "16:05",
+            "realDeparture": "Departed 16:17",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "W61774",
+            "airline": "Wizz Air",
+            "to": "Gdansk",
+            "plannedDeparture": "16:40",
+            "realDeparture": "Departed 16:40",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "FI216",
+            "airline": "Icelandair",
+            "to": "Copenhagen",
+            "plannedDeparture": "16:10",
+            "realDeparture": "Departed 16:40",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "FI344",
+            "airline": "Icelandair",
+            "to": "Helsinki",
+            "plannedDeparture": "16:10",
+            "realDeparture": "Departed 16:47",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "FI312",
+            "airline": "Icelandair",
+            "to": "Stockholm Arlanda",
+            "plannedDeparture": "16:25",
+            "realDeparture": "Departed 16:47",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "FI645",
+            "airline": "Icelandair",
+            "to": "Washington Dulles",
+            "plannedDeparture": "16:50",
+            "realDeparture": "Departed 17:55",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "FI454",
+            "airline": "Icelandair",
+            "to": "London Heathrow",
+            "plannedDeparture": "16:10",
+            "realDeparture": "Departed 16:59",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "WK1303",
+            "airline": "Edelweiss Air",
+            "to": "Zurich",
+            "plannedDeparture": "17:05",
+            "realDeparture": "Departed 17:05",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "BA251",
+            "airline": "British Airways",
+            "to": "Montreal",
+            "plannedDeparture": "17:20",
+            "realDeparture": "Departed 17:20",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "W62428",
+            "airline": "Wizz Air",
+            "to": "Budapest",
+            "plannedDeparture": "17:20",
+            "realDeparture": "Departed 18:15",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "BA906",
+            "airline": "British Airways",
+            "to": "Copenhagen",
+            "plannedDeparture": "17:30",
+            "realDeparture": "Departed 17:22",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "FI657",
+            "airline": "Icelandair",
+            "to": "Minneapolis St Paul",
+            "plannedDeparture": "16:45",
+            "realDeparture": "Departed 17:59",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "FI623",
+            "airline": "Icelandair",
+            "to": "New York Newark",
+            "plannedDeparture": "17:00",
+            "realDeparture": "Departed 17:32",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "FI631",
+            "airline": "Icelandair",
+            "to": "Boston",
+            "plannedDeparture": "17:00",
+            "realDeparture": "Departed 17:33",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "FI693",
+            "airline": "Icelandair",
+            "to": "Edmonton",
+            "plannedDeparture": "16:45",
+            "realDeparture": "Departed 17:39",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "FI853",
+            "airline": "Icelandair",
+            "to": "Chicago",
+            "plannedDeparture": "16:45",
+            "realDeparture": "Departed 17:41",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "BA173",
+            "airline": "British Airways",
+            "to": "Los Angeles",
+            "plannedDeparture": "17:45",
+            "realDeparture": "Departed 18:08",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "FI683",
+            "airline": "Icelandair",
+            "to": "Seattle",
+            "plannedDeparture": "17:30",
+            "realDeparture": "Departed 17:45",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "FI603",
+            "airline": "Icelandair",
+            "to": "Toronto",
+            "plannedDeparture": "17:00",
+            "realDeparture": "Departed 17:52",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "FI671",
+            "airline": "Icelandair",
+            "to": "Denver",
+            "plannedDeparture": "16:45",
+            "realDeparture": "Departed 17:52",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "FI633",
+            "airline": "Icelandair",
+            "to": "Boston",
+            "plannedDeparture": "17:40",
+            "realDeparture": "Departed 17:55",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "FI665",
+            "airline": "Icelandair",
+            "to": "Portland",
+            "plannedDeparture": "17:15",
+            "realDeparture": "Departed 18:00",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "FI681",
+            "airline": "Icelandair",
+            "to": "Seattle",
+            "plannedDeparture": "17:00",
+            "realDeparture": "Departed 18:00",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "FI615",
+            "airline": "Icelandair",
+            "to": "New York JFK",
+            "plannedDeparture": "17:00",
+            "realDeparture": "Departed 18:18",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "BA626",
+            "airline": "British Airways",
+            "to": "Barcelona",
+            "plannedDeparture": "18:05",
+            "realDeparture": "Departed 18:03",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "BA161",
+            "airline": "British Airways",
+            "to": "San Francisco",
+            "plannedDeparture": "18:30",
+            "realDeparture": "Departed 18:30",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "BA131",
+            "airline": "British Airways",
+            "to": "Miami Intl",
+            "plannedDeparture": "18:45",
+            "realDeparture": "Departed 18:50",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "D85391",
+            "airline": "Norwegian Air",
+            "to": "Alicante",
+            "plannedDeparture": "19:55",
+            "realDeparture": "Departed 20:30",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "6F107",
+            "airline": "Primera Air",
+            "to": "Alicante",
+            "plannedDeparture": "18:10",
+            "realDeparture": "Departed 20:45",
+            "status": null
+        },
+        {
+            "date": "7. Jul",
+            "flightNumber": "W61168",
+            "airline": "Wizz Air",
+            "to": "Katowice",
+            "plannedDeparture": "21:55",
+            "realDeparture": "Departed 22:15",
+            "status": null
+        }
+    ]
+}
